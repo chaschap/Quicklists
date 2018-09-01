@@ -1,0 +1,6 @@
+{
+  "appId": "com.chapman.quicklists",
+  "appName": "quicklists",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
